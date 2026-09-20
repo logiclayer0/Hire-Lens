@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { motion } from "framer-motion";
 import type { CandidateMatch } from "@/lib/types";
 import { ScoreBadge } from "./ScoreBadge";
 import { statusBadge, cn } from "@/lib/utils";
