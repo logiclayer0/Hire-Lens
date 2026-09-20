@@ -1,0 +1,38 @@
+Senior Backend Engineer — FinTech Platform
+
+Company: NorthStar Payments
+Location: Bangalore (Hybrid)
+Experience: 5+ years
+
+About the Role:
+We are building a next-generation payments platform serving millions of
+transactions per day. We need a Senior Backend Engineer to lead the design
+and implementation of our core transaction services.
+
+Must Have:
+- 5+ years of professional backend engineering experience
+- Strong proficiency in Python (FastAPI or Django)
+- Hands-on experience with PostgreSQL and query optimization
+- Experience designing and consuming REST APIs
+- Production experience with AWS (EC2, S3, RDS, Lambda)
+- Experience with Docker and containerized deployments
+- Experience with payments, fintech, or high-throughput transaction systems
+- Strong understanding of distributed systems and eventual consistency
+
+Nice to Have:
+- Experience with Kubernetes and Helm
+- Familiarity with Kafka or similar event streaming platforms
+- Exposure to observability tools (Datadog, Prometheus, Grafana)
+- Prior experience leading a small engineering team
+- Contributions to open-source projects
+
+Responsibilities:
+- Design and own microservices powering payment processing
+- Mentor junior engineers and conduct code reviews
+- Collaborate with product and compliance teams
+- Drive reliability, latency, and cost improvements
+
+What We Value:
+- Evidence-driven engineering decisions
+- Clear written and verbal communication
+- Bias for action with high ownership

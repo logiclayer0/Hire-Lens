@@ -1,0 +1,562 @@
+[
+  {
+    "candidate_id": "cand_85753078c65c",
+    "name": "RAHUL SHARMA",
+    "email": "rahul.sharma@example.com",
+    "phone": "+91-9876543210",
+    "location": "Bangalore, India",
+    "total_experience_years": 6.5,
+    "summary": "Senior Backend Engineer with 6 years of experience building scalable payment and transaction systems. Specialized in Python microservices, PostgreSQL optimization, and AWS-native architectures.",
+    "skills": [
+      {
+        "skill": "Python",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "FastAPI",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Django",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Redis",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "AWS",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Docker",
+        "evidence": {
+          "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 38
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Kubernetes",
+        "evidence": {
+          "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 39
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Kafka",
+        "evidence": {
+          "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 39
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Git",
+        "evidence": {
+          "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 39
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "CI/CD",
+        "evidence": {
+          "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 39
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Distributed Systems",
+        "evidence": {
+          "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 39
+        },
+        "confidence": "high"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Senior Backend Engineer",
+        "company": "PayFlow Systems",
+        "duration": "2021 - Present (3.5 years)",
+        "description": "Led design of payment microservice handling 2M+ daily transactions with Python/FastAPI, cut latency from 480ms to 120ms via PostgreSQL and Redis, built AWS event-driven pipeline (SQS, Lambda, RDS) saving 35% cost, mentored 5 engineers, deployed via Docker/ECS with blue‑green deploys.",
+        "evidence": {
+          "text": "Senior Backend Engineer — PayFlow Systems (2021 - Present, 3.5 years)",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 13
+        }
+      },
+      {
+        "title": "Backend Engineer",
+        "company": "FinEdge Technologies",
+        "duration": "2019 - 2021 (2 years)",
+        "description": "Built REST APIs for merchant onboarding using Django REST Framework, designed PostgreSQL schemas for high‑volume ledger data, integrated Razorpay and Stripe, and wrote integration tests achieving 85% coverage.",
+        "evidence": {
+          "text": "Backend Engineer — FinEdge Technologies (2019 - 2021, 2 years)",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 23
+        }
+      },
+      {
+        "title": "Software Engineer Intern",
+        "company": "Zeta Systems",
+        "duration": "2018 - 2019 (1 year)",
+        "description": "Contributed to internal billing service in Python and wrote data migration scripts for PostgreSQL.",
+        "evidence": {
+          "text": "Software Engineer Intern — Zeta Systems (2018 - 2019, 1 year)",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 29
+        }
+      }
+    ],
+    "projects": [
+      {
+        "name": "OpenLedger",
+        "description": "Open-source double-entry ledger in Python (400+ GitHub stars).",
+        "technologies": [
+          "Python"
+        ],
+        "evidence": {
+          "text": "- OpenLedger: Open-source double-entry ledger in Python (400+ GitHub stars).",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 34
+        }
+      },
+      {
+        "name": "PayKit",
+        "description": "Lightweight Python SDK for payment gateway integrations.",
+        "technologies": [
+          "Python"
+        ],
+        "evidence": {
+          "text": "- PayKit: Lightweight Python SDK for payment gateway integrations.",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 35
+        }
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Tech in Computer Science",
+        "institution": "NIT Trichy",
+        "year": "2018",
+        "evidence": {
+          "text": "B.Tech in Computer Science — NIT Trichy, 2018",
+          "source": "resume_1.txt",
+          "page": null,
+          "line": 42
+        }
+      }
+    ],
+    "raw_text": "RAHUL SHARMA\nEmail: rahul.sharma@example.com\nPhone: +91-9876543210\nLocation: Bangalore, India\n\nSUMMARY\nSenior Backend Engineer with 6 years of experience building scalable\npayment and transaction systems. Specialized in Python microservices,\nPostgreSQL optimization, and AWS-native architectures.\n\nEXPERIENCE\n\nSenior Backend Engineer — PayFlow Systems (2021 - Present, 3.5 years)\n- Led the design and rollout of a new payment processing microservice\n  handling 2M+ transactions per day using Python and FastAPI.\n- Reduced p99 latency from 480ms to 120ms by optimizing PostgreSQL\n  queries and adding Redis-backed caching.\n- Architected event-driven pipeline on AWS (SQS, Lambda, RDS) reducing\n  infrastructure cost by 35%.\n- Mentored a team of 5 engineers and conducted 200+ code reviews.\n- Deployed all services on Docker with ECS; introduced blue-green deploys.\n\nBackend Engineer — FinEdge Technologies (2019 - 2021, 2 years)\n- Built REST APIs for merchant onboarding using Django REST Framework.\n- Designed PostgreSQL schemas for high-volume ledger data.\n- Integrated third-party payment gateways (Razorpay, Stripe).\n- Wrote integration tests achieving 85% coverage.\n\nSoftware Engineer Intern — Zeta Systems (2018 - 2019, 1 year)\n- Contributed to internal billing service in Python.\n- Wrote data migration scripts for PostgreSQL.\n\nPROJECTS\n- OpenLedger: Open-source double-entry ledger in Python (400+ GitHub stars).\n- PayKit: Lightweight Python SDK for payment gateway integrations.\n\nSKILLS\nPython, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda,\nSQS), Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.\n\nEDUCATION\nB.Tech in Computer Science — NIT Trichy, 2018",
+    "resume_filename": "resume_1.txt"
+  },
+  {
+    "candidate_id": "cand_ce8523961407",
+    "name": "PRIYA VERMA",
+    "email": "priya.verma@example.com",
+    "phone": "+91-9123456780",
+    "location": "Pune, India",
+    "total_experience_years": 4.5,
+    "summary": "Backend Engineer with 4.5 years of experience in fintech and e-commerce. Comfortable with Python, Node.js, and cloud-native deployments.",
+    "skills": [
+      {
+        "skill": "Python",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Flask",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Node.js",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Express",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "PostgreSQL",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "MongoDB",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "AWS",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Docker",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Git",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "REST APIs",
+        "evidence": {
+          "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 30
+        },
+        "confidence": "high"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Backend Engineer",
+        "company": "ShopKart",
+        "duration": "2022 - Present, 2.5 years",
+        "description": "Built Python microservices, used PostgreSQL & MongoDB, deployed on AWS EC2/S3, and wrote Dockerfiles.",
+        "evidence": {
+          "text": "Backend Engineer — ShopKart (2022 - Present, 2.5 years)",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 12
+        }
+      },
+      {
+        "title": "Software Engineer",
+        "company": "NeoBank",
+        "duration": "2020 - 2022, 2 years",
+        "description": "Developed Node.js/Express REST APIs, integrated Razorpay and PayU, and participated in on-call rotations for 500K users.",
+        "evidence": {
+          "text": "Software Engineer — NeoBank (2020 - 2022, 2 years)",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 18
+        }
+      },
+      {
+        "title": "Intern",
+        "company": "TechSpark",
+        "duration": "2019 - 2020, 1 year",
+        "description": "Assisted backend development for a CRM product using Python and Flask.",
+        "evidence": {
+          "text": "Intern — TechSpark (2019 - 2020, 1 year)",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 23
+        }
+      }
+    ],
+    "projects": [
+      {
+        "name": "ExpenseBuddy",
+        "description": "Personal finance tracker with FastAPI backend and PostgreSQL.",
+        "technologies": [
+          "FastAPI",
+          "PostgreSQL"
+        ],
+        "evidence": {
+          "text": "- ExpenseBuddy: Personal finance tracker with FastAPI backend and PostgreSQL.",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 27
+        }
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.E. in Information Technology",
+        "institution": "Pune University",
+        "year": "2019",
+        "evidence": {
+          "text": "B.E. in Information Technology — Pune University, 2019",
+          "source": "resume_2.txt",
+          "page": null,
+          "line": 34
+        }
+      }
+    ],
+    "raw_text": "PRIYA VERMA\nEmail: priya.verma@example.com\nPhone: +91-9123456780\nLocation: Pune, India\n\nSUMMARY\nBackend Engineer with 4.5 years of experience in fintech and e-commerce.\nComfortable with Python, Node.js, and cloud-native deployments.\n\nEXPERIENCE\n\nBackend Engineer — ShopKart (2022 - Present, 2.5 years)\n- Built and maintained Python microservices for order and payment flows.\n- Worked with PostgreSQL and MongoDB for transactional data.\n- Deployed services on AWS using EC2 and S3.\n- Wrote Dockerfiles for all services.\n\nSoftware Engineer — NeoBank (2020 - 2022, 2 years)\n- Developed REST APIs using Node.js and Express for a digital wallet.\n- Integrated payment gateway APIs (Razorpay, PayU).\n- Participated in on-call rotations for a payments system serving 500K users.\n\nIntern — TechSpark (2019 - 2020, 1 year)\n- Assisted in backend work for a CRM product using Python and Flask.\n\nPROJECTS\n- ExpenseBuddy: Personal finance tracker with FastAPI backend and PostgreSQL.\n\nSKILLS\nPython, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3),\nDocker, Git, REST APIs.\n\nEDUCATION\nB.E. in Information Technology — Pune University, 2019",
+    "resume_filename": "resume_2.txt"
+  },
+  {
+    "candidate_id": "cand_c10042ce2a44",
+    "name": "AMIT KAPOOR",
+    "email": "amit.kapoor@example.com",
+    "phone": "+91-9988776655",
+    "location": "Hyderabad, India",
+    "total_experience_years": 3.0,
+    "summary": "Full-stack developer with 3 years of experience in web applications. Interested in backend engineering and cloud.",
+    "skills": [
+      {
+        "skill": "JavaScript",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "React",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Node.js",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Express",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "MongoDB",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "MySQL",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "PHP",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "HTML",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "CSS",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      },
+      {
+        "skill": "Git",
+        "evidence": {
+          "text": "JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 25
+        },
+        "confidence": "high"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Full Stack Developer",
+        "company": "BrightApps",
+        "duration": "2023 - Present, 1.5 years",
+        "description": "Built web apps using React and Node.js. Wrote REST APIs using Express. Worked with MongoDB for data storage.",
+        "evidence": {
+          "text": "Full Stack Developer — BrightApps (2023 - Present, 1.5 years)",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 12
+        }
+      },
+      {
+        "title": "Junior Developer",
+        "company": "WebWorks",
+        "duration": "2022 - 2023, 1.5 years",
+        "description": "Built small business websites using PHP and MySQL. Wrote basic CRUD APIs.",
+        "evidence": {
+          "text": "Junior Developer — WebWorks (2022 - 2023, 1.5 years)",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 17
+        }
+      }
+    ],
+    "projects": [
+      {
+        "name": "TaskManager",
+        "description": "A to-do app using React and Express.",
+        "technologies": [
+          "React",
+          "Express"
+        ],
+        "evidence": {
+          "text": "- TaskManager: A to-do app using React and Express.",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 22
+        }
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. in Computer Science",
+        "institution": "Osmania University",
+        "year": "2022",
+        "evidence": {
+          "text": "B.Sc. in Computer Science — Osmania University, 2022",
+          "source": "resume_3.txt",
+          "page": null,
+          "line": 28
+        }
+      }
+    ],
+    "raw_text": "AMIT KAPOOR\nEmail: amit.kapoor@example.com\nPhone: +91-9988776655\nLocation: Hyderabad, India\n\nSUMMARY\nFull-stack developer with 3 years of experience in web applications.\nInterested in backend engineering and cloud.\n\nEXPERIENCE\n\nFull Stack Developer — BrightApps (2023 - Present, 1.5 years)\n- Built web apps using React and Node.js.\n- Wrote REST APIs using Express.\n- Worked with MongoDB for data storage.\n\nJunior Developer — WebWorks (2022 - 2023, 1.5 years)\n- Built small business websites using PHP and MySQL.\n- Wrote basic CRUD APIs.\n\nPROJECTS\n- TaskManager: A to-do app using React and Express.\n\nSKILLS\nJavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.\n\nEDUCATION\nB.Sc. in Computer Science — Osmania University, 2022",
+    "resume_filename": "resume_3.txt"
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "title": "Senior Backend Engineer — FinTech Platform",
+  "company": "NorthStar Payments",
+  "summary": "We are building a next-generation payments platform serving millions of transactions per day and need a Senior Backend Engineer to lead the design and implementation of core transaction services. The role involves designing microservices, mentoring engineers, and ensuring reliability, latency, and cost improvements.",
+  "requirements": [
+    {
+      "requirement_id": "req_1",
+      "text": "5+ years of professional backend engineering experience",
+      "category": "must_have",
+      "skill": "backend engineering",
+      "min_years": 5.0
+    },
+    {
+      "requirement_id": "req_2",
+      "text": "Strong proficiency in Python (FastAPI or Django)",
+      "category": "must_have",
+      "skill": "Python",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_3",
+      "text": "Hands-on experience with PostgreSQL and query optimization",
+      "category": "must_have",
+      "skill": "PostgreSQL",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_4",
+      "text": "Experience designing and consuming REST APIs",
+      "category": "must_have",
+      "skill": "REST APIs",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_5",
+      "text": "Production experience with AWS (EC2, S3, RDS, Lambda)",
+      "category": "must_have",
+      "skill": "AWS",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_6",
+      "text": "Experience with Docker and containerized deployments",
+      "category": "must_have",
+      "skill": "Docker",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_7",
+      "text": "Experience with payments, fintech, or high-throughput transaction systems",
+      "category": "must_have",
+      "skill": "payments",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_8",
+      "text": "Strong understanding of distributed systems and eventual consistency",
+      "category": "must_have",
+      "skill": "distributed systems",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_9",
+      "text": "Experience with Kubernetes and Helm",
+      "category": "nice_to_have",
+      "skill": "Kubernetes",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_10",
+      "text": "Familiarity with Kafka or similar event streaming platforms",
+      "category": "nice_to_have",
+      "skill": "Kafka",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_11",
+      "text": "Exposure to observability tools (Datadog, Prometheus, Grafana)",
+      "category": "nice_to_have",
+      "skill": "observability tools",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_12",
+      "text": "Prior experience leading a small engineering team",
+      "category": "nice_to_have",
+      "skill": "team leadership",
+      "min_years": null
+    },
+    {
+      "requirement_id": "req_13",
+      "text": "Contributions to open-source projects",
+      "category": "nice_to_have",
+      "skill": "open-source contributions",
+      "min_years": null
+    }
+  ],
+  "raw_text": "Senior Backend Engineer — FinTech Platform\n\nCompany: NorthStar Payments\nLocation: Bangalore (Hybrid)\nExperience: 5+ years\n\nAbout the Role:\nWe are building a next-generation payments platform serving millions of\ntransactions per day. We need a Senior Backend Engineer to lead the design\nand implementation of our core transaction services.\n\nMust Have:\n- 5+ years of professional backend engineering experience\n- Strong proficiency in Python (FastAPI or Django)\n- Hands-on experience with PostgreSQL and query optimization\n- Experience designing and consuming REST APIs\n- Production experience with AWS (EC2, S3, RDS, Lambda)\n- Experience with Docker and containerized deployments\n- Experience with payments, fintech, or high-throughput transaction systems\n- Strong understanding of distributed systems and eventual consistency\n\nNice to Have:\n- Experience with Kubernetes and Helm\n- Familiarity with Kafka or similar event streaming platforms\n- Exposure to observability tools (Datadog, Prometheus, Grafana)\n- Prior experience leading a small engineering team\n- Contributions to open-source projects\n\nResponsibilities:\n- Design and own microservices powering payment processing\n- Mentor junior engineers and conduct code reviews\n- Collaborate with product and compliance teams\n- Drive reliability, latency, and cost improvements\n\nWhat We Value:\n- Evidence-driven engineering decisions\n- Clear written and verbal communication\n- Bias for action with high ownership"
+}

@@ -1,0 +1,28 @@
+AMIT KAPOOR
+Email: amit.kapoor@example.com
+Phone: +91-9988776655
+Location: Hyderabad, India
+
+SUMMARY
+Full-stack developer with 3 years of experience in web applications.
+Interested in backend engineering and cloud.
+
+EXPERIENCE
+
+Full Stack Developer — BrightApps (2023 - Present, 1.5 years)
+- Built web apps using React and Node.js.
+- Wrote REST APIs using Express.
+- Worked with MongoDB for data storage.
+
+Junior Developer — WebWorks (2022 - 2023, 1.5 years)
+- Built small business websites using PHP and MySQL.
+- Wrote basic CRUD APIs.
+
+PROJECTS
+- TaskManager: A to-do app using React and Express.
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, MySQL, PHP, HTML, CSS, Git.
+
+EDUCATION
+B.Sc. in Computer Science — Osmania University, 2022

@@ -1,0 +1,42 @@
+RAHUL SHARMA
+Email: rahul.sharma@example.com
+Phone: +91-9876543210
+Location: Bangalore, India
+
+SUMMARY
+Senior Backend Engineer with 6 years of experience building scalable
+payment and transaction systems. Specialized in Python microservices,
+PostgreSQL optimization, and AWS-native architectures.
+
+EXPERIENCE
+
+Senior Backend Engineer — PayFlow Systems (2021 - Present, 3.5 years)
+- Led the design and rollout of a new payment processing microservice
+  handling 2M+ transactions per day using Python and FastAPI.
+- Reduced p99 latency from 480ms to 120ms by optimizing PostgreSQL
+  queries and adding Redis-backed caching.
+- Architected event-driven pipeline on AWS (SQS, Lambda, RDS) reducing
+  infrastructure cost by 35%.
+- Mentored a team of 5 engineers and conducted 200+ code reviews.
+- Deployed all services on Docker with ECS; introduced blue-green deploys.
+
+Backend Engineer — FinEdge Technologies (2019 - 2021, 2 years)
+- Built REST APIs for merchant onboarding using Django REST Framework.
+- Designed PostgreSQL schemas for high-volume ledger data.
+- Integrated third-party payment gateways (Razorpay, Stripe).
+- Wrote integration tests achieving 85% coverage.
+
+Software Engineer Intern — Zeta Systems (2018 - 2019, 1 year)
+- Contributed to internal billing service in Python.
+- Wrote data migration scripts for PostgreSQL.
+
+PROJECTS
+- OpenLedger: Open-source double-entry ledger in Python (400+ GitHub stars).
+- PayKit: Lightweight Python SDK for payment gateway integrations.
+
+SKILLS
+Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda,
+SQS), Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.
+
+EDUCATION
+B.Tech in Computer Science — NIT Trichy, 2018

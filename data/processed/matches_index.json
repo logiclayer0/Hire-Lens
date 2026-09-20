@@ -1,0 +1,700 @@
+[
+  {
+    "candidate_id": "cand_85753078c65c",
+    "candidate_name": "RAHUL SHARMA",
+    "overall_score": 81.31,
+    "rank": 1,
+    "matched_requirements": [
+      {
+        "requirement_id": "req_1",
+        "requirement_text": "5+ years of professional backend engineering experience",
+        "category": "must_have",
+        "status": "met",
+        "score": 95.0,
+        "reasoning": "Candidate has 6.5 years of backend engineering experience, exceeding the 5‑year minimum.",
+        "evidence": [
+          {
+            "text": "Senior Backend Engineer — PayFlow Systems (2021 - Present, 3.5 years)",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 13
+          },
+          {
+            "text": "Backend Engineer — FinEdge Technologies (2019 - 2021, 2 years)",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 23
+          },
+          {
+            "text": "Software Engineer Intern — Zeta Systems (2018 - 2019, 1 year)",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 29
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_2",
+        "requirement_text": "Strong proficiency in Python (FastAPI or Django)",
+        "category": "must_have",
+        "status": "met",
+        "score": 95.0,
+        "reasoning": "Candidate lists Python, FastAPI and Django together in the skills section.",
+        "evidence": [
+          {
+            "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 38
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_3",
+        "requirement_text": "Hands-on experience with PostgreSQL and query optimization",
+        "category": "must_have",
+        "status": "met",
+        "score": 90.0,
+        "reasoning": "PostgreSQL is listed as a skill and the senior role description mentions performance work via PostgreSQL.",
+        "evidence": [
+          {
+            "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 38
+          },
+          {
+            "text": "Led design of payment microservice handling 2M+ daily transactions with Python/FastAPI, cut latency from 480ms to 120ms via PostgreSQL and Redis, built AWS event-driven pipeline (SQS, Lambda, RDS) saving 35% cost, mentored 5 engineers, deployed via Docker/ECS with blue‑green deploys.",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 13
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_4",
+        "requirement_text": "Experience designing and consuming REST APIs",
+        "category": "must_have",
+        "status": "met",
+        "score": 90.0,
+        "reasoning": "The candidate built REST APIs for merchant onboarding using Django REST Framework.",
+        "evidence": [
+          {
+            "text": "Built REST APIs for merchant onboarding using Django REST Framework, designed PostgreSQL schemas for high‑volume ledger data, integrated Razorpay and Stripe, and wrote integration tests achieving 85% coverage.",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 23
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_5",
+        "requirement_text": "Production experience with AWS (EC2, S3, RDS, Lambda)",
+        "category": "must_have",
+        "status": "met",
+        "score": 85.0,
+        "reasoning": "AWS is listed with EC2, S3, RDS and Lambda, and the senior role description details work with Lambda and RDS in production.",
+        "evidence": [
+          {
+            "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 38
+          },
+          {
+            "text": "built AWS event-driven pipeline (SQS, Lambda, RDS) saving 35% cost",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 13
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_6",
+        "requirement_text": "Experience with Docker and containerized deployments",
+        "category": "must_have",
+        "status": "met",
+        "score": 90.0,
+        "reasoning": "Docker is listed as a skill and the senior role mentions deployments via Docker/ECS.",
+        "evidence": [
+          {
+            "text": "Python, FastAPI, Django, PostgreSQL, Redis, AWS (EC2, S3, RDS, Lambda, SQS), Docker, ...",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 38
+          },
+          {
+            "text": "deployed via Docker/ECS with blue‑green deploys",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 13
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_7",
+        "requirement_text": "Experience with payments, fintech, or high-throughput transaction systems",
+        "category": "must_have",
+        "status": "met",
+        "score": 95.0,
+        "reasoning": "Candidate has built payment microservices handling millions of daily transactions and integrated Stripe and Razorpay.",
+        "evidence": [
+          {
+            "text": "Led design of payment microservice handling 2M+ daily transactions with Python/FastAPI, cut latency from 480ms to 120ms via PostgreSQL and Redis, built AWS event-driven pipeline (SQS, Lambda, RDS) saving 35% cost, mentored 5 engineers, deployed via Docker/ECS with blue‑green deploys.",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 13
+          },
+          {
+            "text": "integrated Razorpay and Stripe",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 23
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_8",
+        "requirement_text": "Strong understanding of distributed systems and eventual consistency",
+        "category": "must_have",
+        "status": "partial",
+        "score": 70.0,
+        "reasoning": "Distributed Systems is listed as a skill, but there is no explicit evidence of understanding eventual consistency.",
+        "evidence": [
+          {
+            "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 39
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "requirement_id": "req_9",
+        "requirement_text": "Experience with Kubernetes and Helm",
+        "category": "nice_to_have",
+        "status": "partial",
+        "score": 60.0,
+        "reasoning": "Kubernetes is mentioned in the skills, but Helm is not referenced.",
+        "evidence": [
+          {
+            "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 39
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "requirement_id": "req_10",
+        "requirement_text": "Familiarity with Kafka or similar event streaming platforms",
+        "category": "nice_to_have",
+        "status": "met",
+        "score": 80.0,
+        "reasoning": "Kafka is listed among the candidate's skills.",
+        "evidence": [
+          {
+            "text": "Docker, Kubernetes, Kafka, Git, CI/CD, Distributed Systems.",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 39
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_11",
+        "requirement_text": "Exposure to observability tools (Datadog, Prometheus, Grafana)",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No observability tools such as Datadog, Prometheus, or Grafana are mentioned.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_12",
+        "requirement_text": "Prior experience leading a small engineering team",
+        "category": "nice_to_have",
+        "status": "partial",
+        "score": 65.0,
+        "reasoning": "Candidate mentored five engineers, indicating some leadership, but no explicit mention of leading a team.",
+        "evidence": [
+          {
+            "text": "mentored 5 engineers",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 13
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "requirement_id": "req_13",
+        "requirement_text": "Contributions to open-source projects",
+        "category": "nice_to_have",
+        "status": "met",
+        "score": 90.0,
+        "reasoning": "OpenLedger is an open‑source project with 400+ GitHub stars.",
+        "evidence": [
+          {
+            "text": "- OpenLedger: Open-source double-entry ledger in Python (400+ GitHub stars).",
+            "source": "resume_1.txt",
+            "page": null,
+            "line": 34
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "missing_requirements": [
+      "Exposure to observability tools (Datadog, Prometheus, Grafana)"
+    ],
+    "gaps_to_validate": [
+      "Strong understanding of distributed systems and eventual consistency",
+      "Experience with Kubernetes and Helm",
+      "Prior experience leading a small engineering team"
+    ],
+    "strengths": [
+      "5+ years of professional backend engineering experience",
+      "Strong proficiency in Python (FastAPI or Django)",
+      "Hands-on experience with PostgreSQL and query optimization",
+      "Experience designing and consuming REST APIs",
+      "Production experience with AWS (EC2, S3, RDS, Lambda)",
+      "Experience with Docker and containerized deployments",
+      "Experience with payments, fintech, or high-throughput transaction systems",
+      "Familiarity with Kafka or similar event streaming platforms",
+      "Contributions to open-source projects"
+    ],
+    "summary": "RAHUL SHARMA matches 9 requirement(s) strongly, has 3 area(s) to validate, and is missing 1."
+  },
+  {
+    "candidate_id": "cand_ce8523961407",
+    "candidate_name": "PRIYA VERMA",
+    "overall_score": 49.84,
+    "rank": 2,
+    "matched_requirements": [
+      {
+        "requirement_id": "req_1",
+        "requirement_text": "5+ years of professional backend engineering experience",
+        "category": "must_have",
+        "status": "partial",
+        "score": 45.0,
+        "reasoning": "Candidate has 4.5 years of experience, which is below the 5+ years required.",
+        "evidence": [
+          {
+            "text": "Backend Engineer with 4.5 years of experience in fintech and e-commerce.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": null
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_2",
+        "requirement_text": "Strong proficiency in Python (FastAPI or Django)",
+        "category": "must_have",
+        "status": "met",
+        "score": 90.0,
+        "reasoning": "Candidate lists Python proficiency and a FastAPI project.",
+        "evidence": [
+          {
+            "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 30
+          },
+          {
+            "text": "- ExpenseBuddy: Personal finance tracker with FastAPI backend and PostgreSQL.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 27
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_3",
+        "requirement_text": "Hands-on experience with PostgreSQL and query optimization",
+        "category": "must_have",
+        "status": "partial",
+        "score": 55.0,
+        "reasoning": "Candidate mentions PostgreSQL experience but provides no evidence of query optimization.",
+        "evidence": [
+          {
+            "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 30
+          },
+          {
+            "text": "- ExpenseBuddy: Personal finance tracker with FastAPI backend and PostgreSQL.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 27
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_4",
+        "requirement_text": "Experience designing and consuming REST APIs",
+        "category": "must_have",
+        "status": "met",
+        "score": 85.0,
+        "reasoning": "Candidate has designed and consumed REST APIs, as shown in skill list and work description.",
+        "evidence": [
+          {
+            "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 30
+          },
+          {
+            "text": "Developed Node.js/Express REST APIs, integrated Razorpay and PayU, and participated in on-call rotations for 500K users.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 18
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_5",
+        "requirement_text": "Production experience with AWS (EC2, S3, RDS, Lambda)",
+        "category": "must_have",
+        "status": "partial",
+        "score": 50.0,
+        "reasoning": "Candidate has production experience with AWS EC2 and S3 but no evidence of RDS or Lambda.",
+        "evidence": [
+          {
+            "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 30
+          },
+          {
+            "text": "Built Python microservices, used PostgreSQL & MongoDB, deployed on AWS EC2/S3, and wrote Dockerfiles.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 12
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_6",
+        "requirement_text": "Experience with Docker and containerized deployments",
+        "category": "must_have",
+        "status": "met",
+        "score": 90.0,
+        "reasoning": "Candidate lists Docker skill and explicitly mentions writing Dockerfiles.",
+        "evidence": [
+          {
+            "text": "Python, Flask, Node.js, Express, PostgreSQL, MongoDB, AWS (EC2, S3), Docker, Git, REST APIs.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 30
+          },
+          {
+            "text": "Built Python microservices, used PostgreSQL & MongoDB, deployed on AWS EC2/S3, and wrote Dockerfiles.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 12
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_7",
+        "requirement_text": "Experience with payments, fintech, or high-throughput transaction systems",
+        "category": "must_have",
+        "status": "met",
+        "score": 80.0,
+        "reasoning": "Candidate worked at NeoBank integrating Razorpay and PayU, indicating payments/fintech experience.",
+        "evidence": [
+          {
+            "text": "Developed Node.js/Express REST APIs, integrated Razorpay and PayU, and participated in on-call rotations for 500K users.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": 18
+          },
+          {
+            "text": "Backend Engineer with 4.5 years of experience in fintech and e-commerce.",
+            "source": "resume_2.txt",
+            "page": null,
+            "line": null
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_8",
+        "requirement_text": "Strong understanding of distributed systems and eventual consistency",
+        "category": "must_have",
+        "status": "missing",
+        "score": 10.0,
+        "reasoning": "No evidence of distributed systems knowledge or eventual consistency.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_9",
+        "requirement_text": "Experience with Kubernetes and Helm",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 10.0,
+        "reasoning": "Candidate provides no mention of Kubernetes or Helm.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_10",
+        "requirement_text": "Familiarity with Kafka or similar event streaming platforms",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 10.0,
+        "reasoning": "No evidence of Kafka or similar event streaming platforms.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_11",
+        "requirement_text": "Exposure to observability tools (Datadog, Prometheus, Grafana)",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 10.0,
+        "reasoning": "No evidence of exposure to observability tools such as Datadog, Prometheus, or Grafana.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_12",
+        "requirement_text": "Prior experience leading a small engineering team",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 10.0,
+        "reasoning": "No evidence of prior team leadership experience.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_13",
+        "requirement_text": "Contributions to open-source projects",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 10.0,
+        "reasoning": "No evidence of contributions to open-source projects.",
+        "evidence": [],
+        "confidence": "high"
+      }
+    ],
+    "missing_requirements": [
+      "Strong understanding of distributed systems and eventual consistency",
+      "Experience with Kubernetes and Helm",
+      "Familiarity with Kafka or similar event streaming platforms",
+      "Exposure to observability tools (Datadog, Prometheus, Grafana)",
+      "Prior experience leading a small engineering team",
+      "Contributions to open-source projects"
+    ],
+    "gaps_to_validate": [
+      "5+ years of professional backend engineering experience",
+      "Hands-on experience with PostgreSQL and query optimization",
+      "Production experience with AWS (EC2, S3, RDS, Lambda)"
+    ],
+    "strengths": [
+      "Strong proficiency in Python (FastAPI or Django)",
+      "Experience designing and consuming REST APIs",
+      "Experience with Docker and containerized deployments",
+      "Experience with payments, fintech, or high-throughput transaction systems"
+    ],
+    "summary": "PRIYA VERMA matches 4 requirement(s) strongly, has 3 area(s) to validate, and is missing 6."
+  },
+  {
+    "candidate_id": "cand_c10042ce2a44",
+    "candidate_name": "AMIT KAPOOR",
+    "overall_score": 9.38,
+    "rank": 3,
+    "matched_requirements": [
+      {
+        "requirement_id": "req_1",
+        "requirement_text": "5+ years of professional backend engineering experience",
+        "category": "must_have",
+        "status": "missing",
+        "score": 20.0,
+        "reasoning": "Candidate has only 3 years of total experience and no specific backend engineering focus.",
+        "evidence": [
+          {
+            "text": "Full Stack Developer — BrightApps (2023 - Present, 1.5 years)",
+            "source": "resume_3.txt",
+            "page": null,
+            "line": 12
+          },
+          {
+            "text": "Junior Developer — WebWorks (2022 - 2023, 1.5 years)",
+            "source": "resume_3.txt",
+            "page": null,
+            "line": 17
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_2",
+        "requirement_text": "Strong proficiency in Python (FastAPI or Django)",
+        "category": "must_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No evidence of Python, FastAPI, or Django in the profile.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_3",
+        "requirement_text": "Hands-on experience with PostgreSQL and query optimization",
+        "category": "must_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "Candidate does not mention PostgreSQL or query optimization.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_4",
+        "requirement_text": "Experience designing and consuming REST APIs",
+        "category": "must_have",
+        "status": "met",
+        "score": 80.0,
+        "reasoning": "Candidate wrote REST APIs using Express, demonstrating experience designing and consuming REST APIs.",
+        "evidence": [
+          {
+            "text": "Built web apps using React and Node.js. Wrote REST APIs using Express. Worked with MongoDB for data storage.",
+            "source": "resume_3.txt",
+            "page": null,
+            "line": 12
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_5",
+        "requirement_text": "Production experience with AWS (EC2, S3, RDS, Lambda)",
+        "category": "must_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No AWS services (EC2, S3, RDS, Lambda) are referenced.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_6",
+        "requirement_text": "Experience with Docker and containerized deployments",
+        "category": "must_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "Docker or containerization is not mentioned.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_7",
+        "requirement_text": "Experience with payments, fintech, or high-throughput transaction systems",
+        "category": "must_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No experience with payments, fintech, or high‑throughput transaction systems is provided.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_8",
+        "requirement_text": "Strong understanding of distributed systems and eventual consistency",
+        "category": "must_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "Candidate does not discuss distributed systems or eventual consistency.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_9",
+        "requirement_text": "Experience with Kubernetes and Helm",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No mention of Kubernetes or Helm.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_10",
+        "requirement_text": "Familiarity with Kafka or similar event streaming platforms",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "Kafka or similar event streaming platforms are not referenced.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_11",
+        "requirement_text": "Exposure to observability tools (Datadog, Prometheus, Grafana)",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No observability tools (Datadog, Prometheus, Grafana) are listed.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_12",
+        "requirement_text": "Prior experience leading a small engineering team",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "Candidate does not indicate any leadership of an engineering team.",
+        "evidence": [],
+        "confidence": "high"
+      },
+      {
+        "requirement_id": "req_13",
+        "requirement_text": "Contributions to open-source projects",
+        "category": "nice_to_have",
+        "status": "missing",
+        "score": 0.0,
+        "reasoning": "No open‑source contributions are mentioned.",
+        "evidence": [],
+        "confidence": "high"
+      }
+    ],
+    "missing_requirements": [
+      "5+ years of professional backend engineering experience",
+      "Strong proficiency in Python (FastAPI or Django)",
+      "Hands-on experience with PostgreSQL and query optimization",
+      "Production experience with AWS (EC2, S3, RDS, Lambda)",
+      "Experience with Docker and containerized deployments",
+      "Experience with payments, fintech, or high-throughput transaction systems",
+      "Strong understanding of distributed systems and eventual consistency",
+      "Experience with Kubernetes and Helm",
+      "Familiarity with Kafka or similar event streaming platforms",
+      "Exposure to observability tools (Datadog, Prometheus, Grafana)",
+      "Prior experience leading a small engineering team",
+      "Contributions to open-source projects"
+    ],
+    "gaps_to_validate": [],
+    "strengths": [
+      "Experience designing and consuming REST APIs"
+    ],
+    "summary": "AMIT KAPOOR matches 1 requirement(s) strongly, has 0 area(s) to validate, and is missing 12."
+  }
+]
