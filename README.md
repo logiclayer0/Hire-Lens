@@ -397,8 +397,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**Built for AI Agent Hackathon 2026**
 
-⭐ Star this repo if you find it useful!
 
 </div>
