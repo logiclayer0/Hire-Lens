@@ -11,4 +11,5 @@ chromadb
 sentence-transformers
 httpx
 pytest
+
 pytest-asyncio
